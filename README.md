@@ -41,3 +41,14 @@ If you are interested in contributing to the Kessler project, start by reading t
 ## License
 
 Kessler is licensed under the Apache 2.0 license. Please read [LICENSE](LICENSE) for more information.
+
+
+
+
+-----------------------------------------
+## how to install/run
+
+1. use terminal drop down to run cmd
+2. activate venv ```cd .venv && Scripts\activate```
+3. navitage to home ```cd..```
+4. run human_scenario.py ``` python examples\human_scenario_test.py```
